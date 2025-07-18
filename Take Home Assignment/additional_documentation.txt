@@ -1,0 +1,2 @@
+This is a simple full-stack web application built with Node.js (backend) and HTML/CSS/JavaScript (frontend). 
+It uses movie data from a local file to display a list of movies and show details about a single movie when clicked.
