@@ -1,0 +1,1 @@
+done this using the help of llm(chatgpt sir) but im good with html,css and javascript currently learning react, please kindly let me know if there is any front end oppertunites(intern) available at pixels, please provide me your linkedin page sir, thankyou!
